@@ -1,0 +1,16 @@
+.nav-wrapper{
+    background-color: #126fe8;
+}
+
+.nav-wrapper a{
+    height: 63px;
+}
+
+.nav-wrapper a img{
+    width: 85px;
+    height: 75px;
+}
+
+.menu_active{
+   border-bottom: 2px solid rgb(0, 0, 0); 
+}

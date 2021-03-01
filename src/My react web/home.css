@@ -1,0 +1,5 @@
+/* buy sell/trade section */
+.active_class{
+    color: rgb(0, 0, 0);
+    border-bottom: 2px solid red;
+}
